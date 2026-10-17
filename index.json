@@ -1,0 +1,11 @@
+{
+  "org": "chroma-core",
+  "repo": "chroma",
+  "versions": [
+    {
+      "commit": "fd725c5cd3b2919dc733cca517ecb4062286cb16",
+      "tag": "latest",
+      "parsed_at": "2026-10-17T09:07:15.806085+00:00"
+    }
+  ]
+}
