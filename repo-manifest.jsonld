@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/chroma-core/chroma/commit/fd725c5cd3b2919dc733cca517ecb4062286cb16",
       "git:hexsha": "fd725c5cd3b2919dc733cca517ecb4062286cb16",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "latest"
     },
     {
