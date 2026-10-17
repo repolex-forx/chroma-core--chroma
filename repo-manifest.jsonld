@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/chroma-core/chroma/commit/fd725c5cd3b2919dc733cca517ecb4062286cb16",
       "git:hexsha": "fd725c5cd3b2919dc733cca517ecb4062286cb16",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "latest"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "latest",
+      "repolex:parsedAt": "2026-10-17T09:07:15.805151+00:00"
     },
     {
       "@id": "https://repolex.ai/r/chroma-core/chroma/commit/364f9b0efe185e032f1214a698acd8b83dcce89d",
